@@ -1,0 +1,12 @@
+body {
+  min-height: 100vh;
+  box-sizing: border-box;
+  font-family: Roboto, Verdana, Geneva, sans-serif;
+  font-size: 15px;
+  color: $txt-color;
+}
+
+em {
+  font-weight: bold;
+  color: $bg-orange;
+}
